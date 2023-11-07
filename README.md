@@ -17,7 +17,8 @@ This project was completed as part of my Data Analyst certification. The goal wa
 
 ## Project Structure
 
-- `Netflixjulie/` : Contains the presentation.
+- `Netflix Julie.pbix/` : Contains the presentation.
+- `Netflix_titles.pbix/` : Contains the dataset.
 
 ## Visualization
 
