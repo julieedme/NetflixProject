@@ -17,8 +17,11 @@ This project was completed as part of my Data Analyst certification. The goal wa
 
 ## Project Structure
 
+- `Netflixjulie/` : Contains the presentation.
 
 ## Visualization
 
 - The Power BI dashboard created for this project addresses the above-mentioned questions and uses Netflix's branding colors for clear visual identification.
 
+## Link
+https://app.powerbi.com/groups/me/reports/f1af5111-09fc-43a3-9ea9-227b7ca69faf/ReportSectionc9639fe46c80c26c6157?experience=power-bi
